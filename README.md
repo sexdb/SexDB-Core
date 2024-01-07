@@ -8,7 +8,7 @@
 
 - Alternative GEX format allows for 1 defined sex method but does require "lube" a new protocol to allow easyer transfer of files
 
-- Transfer PB of information in seconds! (~1.5875 pb) this does cum with a cost of a delay (10-30 minutes) since the sexDB has to reload and "harden" the database
+- Transfer PB of information in seconds! (~1.5875 pb) this does come* with a cost of a delay (10-30 minutes) since the sexDB has to reload and "harden" the database
 
 - Transfer 3b+ files individually in seconds! (max 37.5mb)
 
